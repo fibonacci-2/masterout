@@ -34,6 +34,6 @@ The dataset and models are located [here](https://drive.google.com/file/d/1KUVHG
 
 ## Running the notebooks
 
-The notebook file "NLP4Health_Local.ipynb" is intended to be run locally while others are run on Google Colab.
-The local version is run on 4x NVIDIA RTX 6000 Ada, but would likely be able to run on much lighter hardware.
-The Colab Notebooks are run using NVIDIA A100 which requires a paid subscription.
+The notebook file "NLP4Health_Local.ipynb" is intended to be run locally while others are run on Google Colab.  
+The local version is run on 4x NVIDIA RTX 6000 Ada, but would likely be able to run on much lighter hardware.  
+The Colab Notebooks are run using NVIDIA A100 which requires a paid subscription.  
