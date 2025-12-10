@@ -20,11 +20,11 @@ nikitaravi@gwmail.gwu.edu ([Nikita Ravi](https://github.com/nikita-ravi))
 This project focuses on cross-lingual transfer learning for mental health prediction tasks, specifically examining how knowledge transfers from large English mental health datasets to smaller datasets in low-resource languages such as Russian and Arabic.  
 The research addresses the critical need for multilingual mental health screening tools that overcome language barriers and offer culturally sensitive support across diverse linguistic communities.  
 We focus on Large Language Models for their well-established ability to capture linguistic patterns at scale.  
-We employ finetuning (E1) and prompting (E2) on two datasets, D1 and D2, in Arabic and Russian respectively, with an intermediary large English corpus from which we transfer knowledge.  
-We curated all datasets from social media due to availability of annotated samples.  
-Our results highlight the difficulty of transferring mental health knowledge from English to Arabic, which we attribute to Arabic cultural context and mental health stigma that shape unique linguistic expressions.  
-More specifically, transferring knowledge through finetuning achieves higher recall on a binary classification task but lower accuracy, maintaining the same F1 as the baseline.  
-For English-to-Russian transfer learning, we observe better knowledge transfer through prompting on the same binary classification task, achieving stronger performance from transfer learning than from the baseline. 
+We employ finetuning (E1) and prompting (E2) on two datasets, D1 and D2, in Arabic and Russian, respectively, with an intermediary large English corpus from which we transfer knowledge.  
+We curated all datasets from social media due to the availability of annotated samples.  
+Our results highlight the difficulty of transferring mental health knowledge from English to Arabic, which we attribute to the cultural context of Arabic and the stigma of mental health that shape unique linguistic expressions.  
+More specifically, transferring knowledge through finetuning achieves higher recall on a binary classification task but lower accuracy, maintaining the same F-1 score as the baseline.  
+For English-to-Russian transfer learning, we observe better knowledge transfer by prompting on the same binary classification task, achieving stronger performance from transfer learning than from the baseline.  
 
 ---
 
