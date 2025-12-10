@@ -6,7 +6,7 @@ This is the repository for our group project for the course CSCI 6907 "NLP for H
 
 ## Members
 
-chqiu@gwu.edu  
+chqiu@gwu.edu ([AmCh-Q](https://github.com/AmCh-Q))  
 (TODO: Put emails of others here) 
 
 ---
@@ -26,4 +26,4 @@ For English-to-Russian transfer learning, we observe better knowledge transfer t
 
 ## Dataset & Model
 
-The dataset and models are located at https://drive.google.com/file/d/1KUVHGOP6vEaYAt9usv-BDLccSeP6lCHW/view?usp=share_link, this is a private link so you need to request for permission as a member of the class to access it.
+The dataset and models are located [here](https://drive.google.com/file/d/1KUVHGOP6vEaYAt9usv-BDLccSeP6lCHW/view?usp=share_link), this is a private link so you need to request for permission as a member of the class to access it.
