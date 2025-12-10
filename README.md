@@ -6,7 +6,9 @@ This is the repository for our group project for the course CSCI 6907 "NLP for H
 
 ## Members
 
-javidalakbarli@gwmail.gwu.edu ([Javid Alakbarli](https://github.com/1javid))  
+javidalakbarli@gwmail.gwu.edu ([Javid Alakbarli](https://github.com/1javid))
+- contribution in branch [Javid](https://github.com/fibonacci-2/masterout/tree/Javid?tab=readme-ov-file)
+
 saadm@gwmail.gwu.edu ([fibonacci-2](https://github.com/fibonacci-2))  
 chqiu@gwmail.gwu.edu ([AmCh-Q](https://github.com/AmCh-Q))  
 nikitaravi@gwmail.gwu.edu ([Nikita Ravi](https://github.com/nikita-ravi))  
