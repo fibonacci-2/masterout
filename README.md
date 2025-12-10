@@ -31,3 +31,9 @@ For English-to-Russian transfer learning, we observe better knowledge transfer t
 ## Dataset & Model
 
 The dataset and models are located [here](https://drive.google.com/file/d/1KUVHGOP6vEaYAt9usv-BDLccSeP6lCHW/view?usp=share_link), this is a private link so you need to request for permission as a member of the class to access it.
+
+## Running the notebooks
+
+The notebook file "NLP4Health_Local.ipynb" is intended to be run locally while others are run on Google Colab.
+The local version is run on 4x NVIDIA RTX 6000 Ada, but would likely be able to run on much lighter hardware.
+The Colab Notebooks are run using NVIDIA A100 which requires a paid subscription.
